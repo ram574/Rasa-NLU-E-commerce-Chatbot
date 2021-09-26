@@ -38,3 +38,67 @@ Rasa is an open-source machine learning framework for automated text and voice-b
 
 We will build an AI-based chatbot using an E-Commerce business case.
 
+Data Description 
+
+ 
+
+The data can be curated from the following two data curation websites,
+
+Rasa NLU trainer: https://rasahq.github.io/rasa-nlu-trainer/
+Chatito: https://rodrigopivi.github.io/Chatito/
+The business case we will be considering is E-Commerce,
+The intents consist of product_info, ask_price, cancel_order
+The entities consist of product, location and order_id
+ 
+
+ 
+
+Aim
+
+ 
+
+To build an AI chatbot using the Rasa NLU model.
+
+ 
+
+ 
+
+Tech stack
+
+ 
+
+Language - Python
+
+Libraries – pandas, matplotlib, rasa, pymongo, tensorflow, spacy
+
+ 
+
+ 
+
+Approach
+
+ 
+
+Perform data curation to obtain the data
+Importing the required packages and libraries
+Import the data
+Create a function to convert the data into training and testing dataframes
+Convert the dataframes to JSON files
+Exploratory Data Analysis (EDA) –
+Data Visualization
+Create configuration files (.yaml) for spacy and TensorFlow.
+Model Building
+Define a function to train the Rasa NLU model.
+Model Evaluation
+Define a function to perform a model evaluation on test data
+Train the data using spacy as the pipeline
+Train the data using TensorFlow as the pipeline
+Plot confusion matrix for both the models
+Interpreting the model
+Install MongoDB and import pymongo
+Create an IntentFlow class
+Create a ContextManager class
+Create a function for processing a message.
+Test the chatbot
+
+
