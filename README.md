@@ -13,7 +13,8 @@
 
 ### Connect with me:
 
-* [https://www.linkedin.com/in/tulasiram574][linkedin]
+### [linkedin]
+* [https://www.linkedin.com/in/tulasiram574]
 
 # Welcome !
 
