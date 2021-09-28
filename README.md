@@ -79,7 +79,7 @@ Approach
 
  
 
-## Perform data curation to obtain the data
+### Perform data curation to obtain the data
 ## Importing the required packages and libraries
 # Import the data
 Create a function to convert the data into training and testing dataframes
