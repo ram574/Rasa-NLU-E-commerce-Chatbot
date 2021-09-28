@@ -1,6 +1,6 @@
 # Welcome !
 
-# Business Objective
+## Business Objective
 
  
 
@@ -14,12 +14,12 @@ There are two main types of chatbots:
 
  
 
-# Rule-based chatbots 
+## Rule-based chatbots 
 In a rule-based type of bot, communication is through a pre-defined rule. User input must conform to these pre-set rules to get an answer. Example: A chatbot that answers basic customer inquiries like the status of one’s delivery, returns request process, tracking information, etc. 
 
  
 
-# AI-based chatbots
+## AI-based chatbots
 AI chatbots make use of machine learning to understand the context and intent of a question before formulating a response. These chatbots generate their own answers to more complicated questions using natural-language responses. The more you use and train these bots, the more they learn and the better they operate with the user.
 
  
@@ -38,7 +38,7 @@ Rasa is an open-source machine learning framework for automated text and voice-b
 
 We will build an AI-based chatbot using an E-Commerce business case.
 
-# Data Description 
+## Data Description 
 
  
 
@@ -53,7 +53,7 @@ The entities consist of product, location and order_id
 
  
 
-# Aim
+## Aim
 
  
 
@@ -63,11 +63,11 @@ To build an AI chatbot using the Rasa NLU model.
 
  
 
-# Tech stack
+## Tech stack
 
  
 
-# Language - Python
+## Language - Python
 
 Libraries – pandas, matplotlib, rasa, pymongo, tensorflow, spacy
 
@@ -75,30 +75,30 @@ Libraries – pandas, matplotlib, rasa, pymongo, tensorflow, spacy
 
  
 
-# Approach
+## Approach
 
  
 
-## Perform data curation to obtain the data
-## Importing the required packages and libraries
-## Import the data
-## Create a function to convert the data into training and testing dataframes
-## Convert the dataframes to JSON files
-## Exploratory Data Analysis (EDA) –
-## Data Visualization
-## Create configuration files (.yaml) for spacy and TensorFlow.
-## Model Building
-## Define a function to train the Rasa NLU model.
-## Model Evaluation
-## Define a function to perform a model evaluation on test data
-## Train the data using spacy as the pipeline
-## Train the data using TensorFlow as the pipeline
-## Plot confusion matrix for both the models
-## Interpreting the model
-## Install MongoDB and import pymongo
-## Create an IntentFlow class
-## Create a ContextManager class
-## Create a function for processing a message.
-## Test the chatbot
+* Perform data curation to obtain the data
+* Importing the required packages and libraries
+* Import the data
+* Create a function to convert the data into training and testing dataframes
+* Convert the dataframes to JSON files
+* Exploratory Data Analysis (EDA) –
+* Data Visualization
+* Create configuration files (.yaml) for spacy and TensorFlow.
+* Model Building
+* Define a function to train the Rasa NLU model.
+* Model Evaluation
+* Define a function to perform a model evaluation on test data
+* Train the data using spacy as the pipeline
+* Train the data using TensorFlow as the pipeline
+* Plot confusion matrix for both the models
+* Interpreting the model
+* Install MongoDB and import pymongo
+* Create an IntentFlow class
+* Create a ContextManager class
+* Create a function for processing a message.
+* Test the chatbot
 
 
