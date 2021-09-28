@@ -1,3 +1,5 @@
+### Hi there, I'm ram - Data Scientist [PythonCodeLOVEr][https://tulasiram-portfolio.netlify.app] 👋
+
 # Welcome !
 
 ## Business Objective
