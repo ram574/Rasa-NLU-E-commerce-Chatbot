@@ -1,3 +1,5 @@
+# Welcome !
+
 ### Hi there, I'm ram - Data Scientist [codeLOVEr] 
 
 * [https://tulasiram-portfolio.netlify.app] 👋
@@ -25,8 +27,6 @@
 ### [Instagram]
 * [https://www.instagram.com/ram_lucky574/]
 
-
-# Welcome !
 
 ## Business Objective
 
