@@ -21,12 +21,14 @@
 * [https://www.tulasiram574.medium.com]
 ### [Skype]
 * [https://join.skype.com/invite/m73hqlTWoETf]
-### [E-mail]
-* https://www.tulasiram.ponaganti@yahoo.com
-* https://www.ponagantit@cytech.fr
 ### [Instagram]
 * [https://www.instagram.com/ram_lucky574/]
 
+### Contact me
+### [E-mail]
+* https://www.tulasiram.ponaganti@yahoo.com
+* https://www.ponagantit@cytech.fr
+* telephone : +33769492265
 
 ## Business Objective
 
