@@ -114,7 +114,7 @@ Libraries – pandas, matplotlib, rasa, pymongo, tensorflow, spacy
 * Import the data
 * Create a function to convert the data into training and testing dataframes
 * Convert the dataframes to JSON files
-* Exploratory Data Analysis (EDA) –
+* Exploratory Data Analysis (EDA) 
 * Data Visualization
 * Create configuration files (.yaml) for spacy and TensorFlow.
 * Model Building
