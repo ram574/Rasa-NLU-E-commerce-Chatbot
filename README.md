@@ -20,8 +20,8 @@
 ### [Skype]
 * [https://join.skype.com/invite/m73hqlTWoETf]
 ### [E-mail]
-* [https://www.tulasiram.ponaganti@yahoo.com]
-* [https://www.ponagantit@cytech.fr]
+* https://www.tulasiram.ponaganti@yahoo.com
+* https://www.ponagantit@cytech.fr
 ### [Instagram]
 * [https://www.instagram.com/ram_lucky574/]
 
