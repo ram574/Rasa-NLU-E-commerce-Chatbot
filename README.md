@@ -5,7 +5,7 @@
 
 ## I'm a Data Science, Machine Learning, NLP, Deep Learning, Artificial Intelligence Enthusiast!!
 
-- 🔭 I am a recent Graduate : [Want to Become A Data Scientist!][course]!
+- 🔭 I am a recent Graduate : [Want to Become A Data Scientist!]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Improve and gain Knowledge on ML techniques
