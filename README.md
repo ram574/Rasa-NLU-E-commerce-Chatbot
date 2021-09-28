@@ -1,4 +1,6 @@
-### Hi there, I'm ram - Data Scientist [codeLOVEr][https://tulasiram-portfolio.netlify.app] 👋
+### Hi there, I'm ram - Data Scientist [codeLOVEr] 
+
+* [https://tulasiram-portfolio.netlify.app] 👋
 
 
 ## I'm a Data Science, Machine Learning, NLP, Deep Learning, Artificial Intelligence Enthusiast!!
@@ -11,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeLOVEr | LinkedIn" width="22px" src="https://www.linkedin.com/in/tulasiram574/" />][linkedin]
+* [https://www.linkedin.com/in/tulasiram574]
 
 # Welcome !
 
