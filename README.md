@@ -28,7 +28,7 @@
 ### [E-mail]
 * https://www.tulasiram.ponaganti@yahoo.com
 * https://www.ponagantit@cytech.fr
-* telephone : +33769492265
+
 
 ## Business Objective
 
