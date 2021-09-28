@@ -15,6 +15,16 @@
 
 ### [linkedin]
 * [https://www.linkedin.com/in/tulasiram574]
+### [Medium]
+* [https://www.tulasiram574.medium.com]
+### [Skype]
+* [https://join.skype.com/invite/m73hqlTWoETf]
+### [E-mail]
+* [https://www.tulasiram.ponaganti@yahoo.com]
+* [https://www.ponagantit@cytech.fr]
+### [Instagram]
+* [https://www.instagram.com/ram_lucky574/]
+
 
 # Welcome !
 
@@ -62,8 +72,10 @@ We will build an AI-based chatbot using an E-Commerce business case.
 
 The data can be curated from the following two data curation websites,
 
-Rasa NLU trainer: https://rasahq.github.io/rasa-nlu-trainer/
-Chatito: https://rodrigopivi.github.io/Chatito/
+Rasa NLU trainer: 
+* https://rasahq.github.io/rasa-nlu-trainer/
+Chatito: 
+* https://rodrigopivi.github.io/Chatito/
 The business case we will be considering is E-Commerce,
 The intents consist of product_info, ask_price, cancel_order
 The entities consist of product, location and order_id
