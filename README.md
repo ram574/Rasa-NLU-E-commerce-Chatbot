@@ -72,13 +72,13 @@ We will build an AI-based chatbot using an E-Commerce business case.
 
 The data can be curated from the following two data curation websites,
 
-Rasa NLU trainer: 
+* Rasa NLU trainer: 
 * https://rasahq.github.io/rasa-nlu-trainer/
-Chatito: 
+* Chatito: 
 * https://rodrigopivi.github.io/Chatito/
-The business case we will be considering is E-Commerce,
-The intents consist of product_info, ask_price, cancel_order
-The entities consist of product, location and order_id
+* The business case we will be considering is E-Commerce,
+* The intents consist of product_info, ask_price, cancel_order
+* The entities consist of product, location and order_id
  
 
  
