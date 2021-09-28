@@ -1,4 +1,17 @@
-### Hi there, I'm ram - Data Scientist [PythonCodeLOVEr][https://tulasiram-portfolio.netlify.app] 👋
+### Hi there, I'm ram - Data Scientist [codeLOVEr][https://tulasiram-portfolio.netlify.app] 👋
+
+
+## I'm a Data Science, Machine Learning, NLP, Deep Learning, Artificial Intelligence Enthusiast!!
+
+- 🔭 I am a recent Greaduate : [Want to Become A Data Scientist!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2020 Goals: Improve and gain Knowledge on ML TEchniques
+- ⚡ Fun fact: I love to travel, play video games, reading and writing articles
+
+### Connect with me:
+
+[<img align="left" alt="codeLOVEr | LinkedIn" width="22px" src="https://www.linkedin.com/in/tulasiram574//npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 # Welcome !
 
