@@ -8,12 +8,12 @@
 - 🔭 I am a recent Graduate : [Want to Become A Data Scientist!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Improve and gain Knowledge on ML TEchniques
+- 🥅 2020 Goals: Improve and gain Knowledge on ML techniques
 - ⚡ Fun fact: I love to travel, play video games, reading and writing articles
 
 ### Connect with me:
 
-* [https://www.linkedin.com/in/tulasiram574]
+* [https://www.linkedin.com/in/tulasiram574][linkedin]
 
 # Welcome !
 
