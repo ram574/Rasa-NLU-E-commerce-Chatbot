@@ -26,8 +26,8 @@
 
 ### Contact me
 ### [E-mail]
-* https://www.tulasiram.ponaganti@yahoo.com
-* https://www.ponagantit@cytech.fr
+* tulasiram.ponaganti@yahoo.com
+* ponagantit@cytech.fr
 
 
 ## Business Objective
